@@ -1,0 +1,14 @@
+*.bib
+*.aux
+*.bbl
+*.bcf
+*.idx
+*.ind
+*.log
+*.out
+*.pdf
+*.ptc
+*.xml
+*.gz
+*.toc
+*.ist
