@@ -9,6 +9,8 @@
 *.pdf
 *.ptc
 *.xml
+*.run.xml
 *.gz
 *.toc
 *.ist
+*~
